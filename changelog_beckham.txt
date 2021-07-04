@@ -7,6 +7,7 @@ Device maintainer: Pietro Andreotti (Pietrotti97)
 ====================
      07-03-2021
 ====================
+   v7.7 build monthly update
 
    * device/lineage/sepolicy
 2700853 Merge pull request #12 from Jabiyeff/11.0
